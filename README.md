@@ -1,3 +1,5 @@
+# NAME:MONISHKUMAR.V
+# REGISTER NUMBER: 212223040116
 # Echoserver
 Echo server and client using python socket
 # AIM:
@@ -87,8 +89,12 @@ httpd.serve_forever()
 
 ## OUTPUT:
 ### CLIENT OUTPUT:
+<img width="1001" height="512" alt="Screenshot 2025-08-13 082101" src="https://github.com/user-attachments/assets/982cab52-b0a8-4e1e-adf0-e661cb900bed" />
+
 
 ### SERVER OUTPUT:
+<img width="1919" height="1015" alt="Screenshot 2025-08-13 082150" src="https://github.com/user-attachments/assets/943a0809-21c1-41e5-a397-1a6a0229486c" />
+
 
 ## RESULT:
 The program is executed succesfully
